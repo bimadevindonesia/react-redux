@@ -1,0 +1,22 @@
+{
+    "users" : [
+        {
+            "id"     : 1,
+            "name"   : "Ripto Tama",
+            "address": "Semarang",
+            "phone"  : "02199991000"
+        },
+        {
+            "id"     : 2,
+            "name"   : "Ahmad",
+            "address": "Surabaya",
+            "phone"  : "02199991111"
+        },
+        {
+            "id"     : 3,
+            "name"   : "Dani",
+            "address": "Bandung",
+            "phone"  : "02199992222"
+        }
+    ]
+}
