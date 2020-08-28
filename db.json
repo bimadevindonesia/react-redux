@@ -17,6 +17,54 @@
             "name"   : "Dani",
             "address": "Bandung",
             "phone"  : "02199992222"
+        },
+        {
+            "id"     : 4,
+            "name"   : "Dian",
+            "address": "Bandung Selatan",
+            "phone"  : "02199993333"
+        },
+        {
+            "id"     : 5,
+            "name"   : "Irawan",
+            "address": "Bandung",
+            "phone"  : "02199992222"
+        },
+        {
+            "id"     : 6,
+            "name"   : "Joni",
+            "address": "Bandung",
+            "phone"  : "02199992222"
+        },
+        {
+            "id"     : 7,
+            "name"   : "Dani Beler",
+            "address": "Bandung",
+            "phone"  : "02199992222"
+        },
+        {
+            "id"     : 8,
+            "name"   : "Dani M",
+            "address": "Bandung",
+            "phone"  : "02199992222"
+        },
+        {
+            "id"     : 9,
+            "name"   : "Dani L",
+            "address": "Bandung",
+            "phone"  : "02199992222"
+        },
+        {
+            "id"     : 10,
+            "name"   : "Dani J",
+            "address": "Bandung",
+            "phone"  : "02199992222"
+        },
+        {
+            "id"     : 11,
+            "name"   : "Dani T",
+            "address": "Bandung",
+            "phone"  : "02199992222"
         }
     ]
 }
